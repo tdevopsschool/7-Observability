@@ -1,7 +1,6 @@
 ## Homework
 *[#homework]() [#monitoring]()*
-1. Настроить Alert-оповещения о критических состояниях приложения/системы
-2. Настроить систему агрегации логов приложения/системы
+...TO BE DONE...
 
 ## Links
 - [Hacking your way to Observability — Part 1 : Metrics](https://jonbc.medium.com/hacking-your-way-to-observability-part-1-cf4cd42fb4dc)
